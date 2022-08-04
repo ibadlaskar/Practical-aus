@@ -1,2 +1,2 @@
-# itsme
-Hi this is  ibadur laskar and i am Web developer 
+# C++ Problem Solution's
+AUS Practical computer science 
